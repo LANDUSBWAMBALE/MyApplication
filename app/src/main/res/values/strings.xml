@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Title</string>
+    <string name="title2">Title2</string>
+    <string name="update">update</string>
+    <string name="cancel">cancel</string>
+    <string name="do_you_want_to_delete">do_you_want_to_delete</string>
+    <string name="also_delete_from_device">also_delete_from_device</string>
+    <string name="delete2">delete</string>
+    <string name="cancel2">cancel</string>
+</resources>
